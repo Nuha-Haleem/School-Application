@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693199256 source:c:\users\waseem\desktop\fcbcplus\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
